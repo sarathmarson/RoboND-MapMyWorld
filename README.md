@@ -8,7 +8,7 @@ launch world:
 
 		cd RoboND-WhereAmI
 		source devel/setup.bash
-		 roslaunch my_robot world.launch
+		roslaunch my_robot world.launch
          
 launch mapping:
 
